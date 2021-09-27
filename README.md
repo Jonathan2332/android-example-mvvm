@@ -4,7 +4,7 @@
 
 ### What is this project?
 
-This project is an example using MVVM pattern architecture on Android.
+This project is an example using MVVM pattern architecture on Android. In a very simple way, the app registers and shows the guests who attended.
 
 ### What was used:
 
