@@ -27,7 +27,7 @@ The english text was done by me using my knowledge, so sorry if has some error.
 
 ### O que é este projeto?
 
-Este projeto é um exemplo usando o padrão de arquitetura MVVM no Android
+Este projeto é um exemplo usando o padrão de arquitetura MVVM no Android. De forma bem simples, o app cadastra e mostra os convidados que compareceram.
 
 ### O que foi usado:
 
