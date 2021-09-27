@@ -14,6 +14,7 @@ This project is an example using MVVM pattern architecture on Android.
 
 * Kotlin
 * Kotlin coroutines
+* Livedata
 * ViewBinding
 * Android Room Database
 * [Koin](https://insert-koin.io/) (for dependency injection)
@@ -36,6 +37,7 @@ Este projeto é um exemplo usando o padrão de arquitetura MVVM no Android
 
 * Kotlin
 * Kotlin coroutines
+* Livedata
 * ViewBinding
 * Android Room Database
 * [Koin](https://insert-koin.io/) (para injenção de dependências)
